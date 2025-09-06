@@ -19,3 +19,4 @@ Digital translation of the book "Practical Machine Learning with Scikit, Keras a
 - تعداد صفحات: 509
 
 ---
+[Book-Cover.pdf](https://github.com/user-attachments/files/22188007/Book-Cover.pdf)
