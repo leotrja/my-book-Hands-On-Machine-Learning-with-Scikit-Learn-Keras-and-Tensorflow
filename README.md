@@ -12,7 +12,7 @@ Digital translation of the book "Practical Machine Learning with Scikit, Keras a
 ## توضیحات کوتاه
 
 - فرمت: PDF  
-- حجم: [مثلاً 16 مگابایت
+- حجم: 16 مگابایت
 - زبان: فارسی  
 - نویسنده: Aurélien-Géron
 - مترجم: محسن زارع
